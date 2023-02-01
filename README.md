@@ -1,4 +1,4 @@
-<h1>Olá! <img scr="https://raw.githubsercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eu sou o Matheus Bittencourt</h1>
+<h1 img aling="left"> Óla! <img scr="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eu sou o Matheus Bittencourt</h1>
 
 - 🔭 Hoje trabalho como analista de suporte
 - 🌱 Estundando Front-end e Back-end
