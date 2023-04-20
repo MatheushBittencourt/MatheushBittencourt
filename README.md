@@ -1,6 +1,6 @@
 <h1 img aling="left"> Óla! <img scr="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eu sou o Matheus Bittencourt</h1>
 
-- 🔭 Hoje trabalho como analista de suporte
+- 🔭 CEO - Place Solutin
 - 🌱 Estundando Front-end e Back-end
 <div align="center">
   <a href="https://beacons.ai/matheushbittencourt">
