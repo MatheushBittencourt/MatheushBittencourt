@@ -1,4 +1,4 @@
-<h1 img aling="left"> Óla! <img scr="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eu sou o Matheus Bittencourt</h1>
+<h1 img aling="left"> Óla! <img scr="[https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Femojipedia.org%2Fpt%2Fm%25C3%25A3o-acenando%2F&psig=AOvVaw21cZSyCd2Ni1ywKDE4QjEo&ust=1683244445273000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDGpa2s2v4CFQAAAAAdAAAAABAO)" width="30px">Eu sou o Matheus Bittencourt</h1>
 
 - 🔭 CEO - Place Solutin
 - 🌱 Estundando Front-end e Back-end
