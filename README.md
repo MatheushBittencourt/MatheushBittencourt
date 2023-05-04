@@ -1,7 +1,7 @@
 <h1 img aling="left"> Óla! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30px"> Eu sou o Matheus Bittencourt</h1>
 
 - 🔭 CEO - Place Solutin
-- 🌱 Estundando Front-end e Back-end
+- 💻 Desenvolvedor Front-end
 <div align="center">
   <a href="https://beacons.ai/matheushbittencourt">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MatheushBittencourt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
