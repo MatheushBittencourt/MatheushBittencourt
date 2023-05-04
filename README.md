@@ -25,5 +25,6 @@
   <a href = "mailto:matheus.hbittencourt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://www.linkedin.com/in/matheus-bittencourt-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-![image load fail. please open proxy retry](https://github.com/MatheushBittencourt/commit-snake/blob/snk/snk.svg)
+  <div align="center">
+    ![image load fail. please open proxy retry](https://github.com/MatheushBittencourt/commit-snake/blob/snk/snk.svg)
+  </div>
