@@ -1,6 +1,5 @@
 <h1 img aling="left"> Óla! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30px"> Eu sou o Matheus Bittencourt</h1>
 
-- 🔭 CEO - Place Solutin
 - 💻 Desenvolvedor Front-end
 <div align="center">
   <a href="https://beacons.ai/matheushbittencourt">
