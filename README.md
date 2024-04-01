@@ -1,36 +1,58 @@
-<h1 img aling="left"> Óla! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30px"> Eu sou o Matheus Bittencourt</h1>
+<!-- Seu Nome -->
+<h1 align="center">👋 Bem-vindo ao meu perfil GitHub!</h1>
 
-- 💻 DevOps
-<div align="center">
-  <a href="https://beacons.ai/matheushbittencourt">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=MatheushBittencourt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheushBittencourt&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps%20-%2312100E.svg?&style=for-the-badge&logoColor=white" />
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<p align="center">Olá, eu sou Matheus, um DevOps apaixonado por tecnologia e inovação. Com uma sólida experiência em desenvolvimento e operações, estou sempre buscando maneiras de otimizar processos e impulsionar a eficiência em ambientes de desenvolvimento.</p>
 
-</div>
+<!-- Links para redes sociais -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil/"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/seu-perfil"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-##
+<!-- Tecnologias -->
+<h2 align="center">🚀 Tecnologias que eu domino</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform%20-%23623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
 
-<div> 
-  <a href="https://instagram.com/_matheus.bittencourt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/MatheusBitten#0869" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheus.hbittencourt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://www.linkedin.com/in/matheus-bittencourt-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-##
-  
-<div align="center">
-  
-![image load fail. please open proxy retry](https://github.com/MatheushBittencourt/commit-snake/blob/snk/snk.svg)
-  
-</div>
-  
-##
+<!-- Projetos -->
+<h2 align="center">🛠️ Projetos Destacados</h2>
+
+<!-- Lista de Projetos -->
+<p align="center">
+  <a href="link-do-projeto">
+    <img src="https://img.shields.io/badge/Projeto%201-Descrição-brightgreen.svg?style=flat&logoColor=white" />
+  </a>
+  <a href="link-do-projeto">
+    <img src="https://img.shields.io/badge/Projeto%202-Descrição-brightgreen.svg?style=flat&logoColor=white" />
+  </a>
+</p>
+
+<!-- Estatísticas do GitHub -->
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<!-- Estatísticas -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+
+<!-- Linguagens Mais Usadas -->
+<h2 align="center">🚀 Linguagens Mais Usadas</h2>
+
+<!-- Lista de Linguagens -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+</p>
+
+<!-- Chamada para ação -->
+<h2 align="center">🤝 Vamos Codar Juntos?</h2>
+<p align="center">Se você tem um projeto interessante ou está procurando ajuda em algo, não hesite em entrar em contato. Estou sempre empolgado em colaborar em novas ideias e desafios emocionantes!</p>
+
