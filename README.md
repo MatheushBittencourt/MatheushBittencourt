@@ -36,14 +36,6 @@
   </a>
 </p>
 
-<!-- Estatísticas do GitHub -->
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<!-- Estatísticas -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
-
 <!-- Linguagens Mais Usadas -->
 <h2 align="center">🚀 Linguagens Mais Usadas</h2>
 
