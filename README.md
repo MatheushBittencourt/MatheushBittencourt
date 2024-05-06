@@ -23,15 +23,6 @@
   <img src="https://img.shields.io/badge/Terraform%20-%23623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-
-<!-- Linguagens Mais Usadas -->
-<h2 align="center">🚀 Linguagens Mais Usadas</h2>
-
-<!-- Lista de Linguagens -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</p>
-
 <!-- Chamada para ação -->
 <h2 align="center">🤝 Vamos Codar Juntos?</h2>
 <p align="center">Se você tem um projeto interessante ou está procurando ajuda em algo, não hesite em entrar em contato. Estou sempre empolgado em colaborar em novas ideias e desafios emocionantes!</p>
