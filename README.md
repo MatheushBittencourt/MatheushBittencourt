@@ -23,18 +23,6 @@
   <img src="https://img.shields.io/badge/Terraform%20-%23623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-<!-- Projetos -->
-<h2 align="center">🛠️ Projetos Destacados</h2>
-
-<!-- Lista de Projetos -->
-<p align="center">
-  <a href="link-do-projeto">
-    <img src="https://img.shields.io/badge/Projeto%201-Descrição-brightgreen.svg?style=flat&logoColor=white" />
-  </a>
-  <a href="link-do-projeto">
-    <img src="https://img.shields.io/badge/Projeto%202-Descrição-brightgreen.svg?style=flat&logoColor=white" />
-  </a>
-</p>
 
 <!-- Linguagens Mais Usadas -->
 <h2 align="center">🚀 Linguagens Mais Usadas</h2>
