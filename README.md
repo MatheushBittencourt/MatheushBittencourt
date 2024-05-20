@@ -1,29 +1,56 @@
-<!-- Seu Nome -->
-<h1 align="center">👋 Bem-vindo ao meu perfil GitHub!</h1>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps%20-%2312100E.svg?&style=for-the-badge&logoColor=white" />
-</p>
+## Sobre mim
 
-<p align="center">Olá, eu sou Matheus, um DevOps apaixonado por tecnologia e inovação. Com uma sólida experiência em desenvolvimento e operações, estou sempre buscando maneiras de otimizar processos e impulsionar a eficiência em ambientes de desenvolvimento.</p>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {seu curso} no {faculdade}.
+- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
-<!-- Links para redes sociais -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/seu-perfil"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+## Minhas Skills
 
-<!-- Tecnologias -->
-<h2 align="center">🚀 Tecnologias que eu domino</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform%20-%23623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
+**Aplicações e dados**
 
-<!-- Chamada para ação -->
-<h2 align="center">🤝 Vamos Codar Juntos?</h2>
-<p align="center">Se você tem um projeto interessante ou está procurando ajuda em algo, não hesite em entrar em contato. Estou sempre empolgado em colaborar em novas ideias e desafios emocionantes!</p>
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Matheus)](https://www.linkedin.com/in/matheus-bittencourt-santos/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.hbittencourt@gmail.com)](mailto:matheus.hbittencourt@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/MatheushBittencourt)
